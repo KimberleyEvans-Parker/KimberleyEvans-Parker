@@ -4,6 +4,12 @@ Welcome to my GitHub repository, where you can have a look at the projects I've 
 
 Or another way to see what I've been working on is to visit my website; [website](https://kimberleyevans-parker.github.io/)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimberleyEvans-Parker&show_icons=true&bg_color=90,472D5E,3A79C0&title_color=fff&text_color=fff" alt="Kimberley's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimberleyEvans-Parker&layout=compact&bg_color=90,3A79C0,192A56&title_color=fff&text_color=fff" alt="Kimberley's Language Stats" />
+</p>
+
 <!--
 **KimberleyEvans-Parker/KimberleyEvans-Parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
