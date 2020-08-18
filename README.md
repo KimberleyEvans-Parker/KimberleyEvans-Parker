@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+Welcome to my GitHub repository, where you can have a look at the projects I've been working on.  
+
+Or another way to see what I've been working on is to visit my website; [website](https://kimberleyevans-parker.github.io/)
 
 <!--
 **KimberleyEvans-Parker/KimberleyEvans-Parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
