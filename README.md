@@ -4,7 +4,7 @@ Welcome to my GitHub repository, where you can have a look at the projects I've 
 
 Or another way to see what I've been working on is to visit my [website](https://kimberleyevans-parker.github.io/).
 
-A bit about me:  I'm a graduate engineer at Xero.  I have completed university, studying Computer Systems Engineering, conjoint with Science; Logic and Computation. During this I learnt a range of programming languages, as well as logic, mathematics, proofs and electrical systems.
+A bit about me:  I'm a software engineer at Xero.  I have completed university, studying Computer Systems Engineering, conjoint with Science; Logic and Computation. During this I learnt a range of programming languages, as well as logic, mathematics, proofs and electrical systems.
 I love problem solving and programming, which has lead to an interest in robotics, coding and algorithms. I also enjoy design and I am good at coming up with creative solutions and work well in a team.
 
 <p align="center">
